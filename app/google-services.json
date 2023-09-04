@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863077373983",
+    "project_id": "meu-banco-20428",
+    "storage_bucket": "meu-banco-20428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863077373983:android:7eeca8db5964228e5c9d2a",
+        "android_client_info": {
+          "package_name": "com.valorizeseusamigos.meubanco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863077373983-358f46n43kptb1s362rgumfqp46l4p5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valorizeseusamigos.meubanco",
+            "certificate_hash": "d3958cb4cce89252ecb647bbaa3585de97f54942"
+          }
+        },
+        {
+          "client_id": "863077373983-iui146q8428k61gr6u875mkp7gulo5q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeI5bMVYf2195fvAk3lMOJLMOb9h8x92Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863077373983-iui146q8428k61gr6u875mkp7gulo5q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
